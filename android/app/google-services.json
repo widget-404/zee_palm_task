@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "221385016038",
+    "project_id": "zee-palm",
+    "storage_bucket": "zee-palm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221385016038:android:15281bbb83f97d45f77127",
+        "android_client_info": {
+          "package_name": "com.example.zee_palm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221385016038-473v8k9v8d18kvoqb1sdbc72e171q3rh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zee_palm",
+            "certificate_hash": "ce3a2e6c0c94aedacce1da04aafbe9f1ba50852d"
+          }
+        },
+        {
+          "client_id": "221385016038-43i5u5fd5f7f7g24tm47tj2qojb76l5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9VgoK5VxyDHf_JSjjMB_wWofztVASwi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221385016038-43i5u5fd5f7f7g24tm47tj2qojb76l5k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
